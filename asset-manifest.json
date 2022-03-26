@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lab-react-stardom/static/css/main.93046f0c.chunk.css",
+    "main.js": "/lab-react-stardom/static/js/main.c7744405.chunk.js",
+    "main.js.map": "/lab-react-stardom/static/js/main.c7744405.chunk.js.map",
+    "runtime-main.js": "/lab-react-stardom/static/js/runtime-main.955a8fd2.js",
+    "runtime-main.js.map": "/lab-react-stardom/static/js/runtime-main.955a8fd2.js.map",
+    "static/js/2.0d96c609.chunk.js": "/lab-react-stardom/static/js/2.0d96c609.chunk.js",
+    "static/js/2.0d96c609.chunk.js.map": "/lab-react-stardom/static/js/2.0d96c609.chunk.js.map",
+    "index.html": "/lab-react-stardom/index.html",
+    "static/css/main.93046f0c.chunk.css.map": "/lab-react-stardom/static/css/main.93046f0c.chunk.css.map",
+    "static/js/2.0d96c609.chunk.js.LICENSE.txt": "/lab-react-stardom/static/js/2.0d96c609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.955a8fd2.js",
+    "static/js/2.0d96c609.chunk.js",
+    "static/css/main.93046f0c.chunk.css",
+    "static/js/main.c7744405.chunk.js"
+  ]
+}
