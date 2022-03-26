@@ -1,5 +1,5 @@
 import './App.css';
-import Displayprostar from './component/displayprostar';
+import DisplayProstar from './components/displayProstart';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <div className='head'>
         <h1>ProStars</h1>
       </div>
-      <Displayprostar/>
+      <DisplayProstar />
     </div>
   );
 }

@@ -1,0 +1,33 @@
+.image{
+    width: 140px;
+}
+.table-container,.sortBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table{
+    background: gray;
+}
+td{
+    text-align: center;
+}
+td,tr,th{
+    border: solid gray 1px;
+    border-collapse: collapse;
+    background: white;
+    padding: 20px;
+}
+.deleteBtn{
+    background: red;
+    color: white;
+    cursor: pointer;
+}
+.sortBtn{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sortBtn>button{
+    padding: 5px
+}
